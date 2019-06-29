@@ -1,0 +1,92 @@
+/*--------------------------------------------------------------
+# Give Plugin 
+--------------------------------------------------------------*/
+.give-form-wrap {
+	background: #fbfbfb;
+	border: 1px solid #efefef;
+	padding: 30px;
+}
+
+.give-progress-bar>span, 
+.give-progress-bar {
+	border-radius: 0;
+}
+
+.give-goal-progress .income {
+	font-family: "Oswald", "Helvetica Neue", helvetica, arial, sans-serif;
+	font-size: 35px;
+	font-size: 2.1875rem;
+}
+
+.give_forms .give-form-wrap {
+	background: #fbfbfb;
+	border: 1px solid #efefef;
+	padding: 30px;
+}
+
+h1.give-form-title.entry-title {
+	background: #fff;
+	border: 1px solid #efefef;
+	border-bottom: none;
+	margin: 0;
+	padding: 20px 10px;
+	text-align: center;
+}
+
+body .zeko-panel .panel-content .give-form-wrap {
+	border: 1px solid #efefef;
+	background: #fbfbfb;
+	margin-bottom: 20px;
+	padding: 30px 20px 0 20px;
+}
+
+body .zeko-panel .panel-content .give-form-title {
+	border-bottom: 3px solid #9e0022;
+	font-weight: 400;
+	padding-bottom: 10px;
+}
+
+body .zeko-panel .panel-content .give-goal-progress .income {
+	font-size: 20px;
+	font-size: 1.25rem;
+	letter-spacing: .02rem;
+}
+
+form[id*=give-form] .give-donation-amount .give-currency-symbol {
+	background-color: #fff;
+	border-top: 1px solid #cdcdcd;
+	border-bottom: 1px solid #cdcdcd;
+}
+
+form[id*=give-form] .give-donation-amount .give-currency-symbol.give-currency-position-before {
+	border-left: 1px solid #cdcdcd;
+}
+
+form[id*=give-form] .give-donation-amount #give-amount, 
+form[id*=give-form] .give-donation-amount #give-amount-text {
+	border: 1px solid #cdcdcd;
+}
+
+.give-btn {
+	background: #9e0022;
+	border: none;
+	color: #fff;
+	font-family: "Oswald", "Helvetica Neue", helvetica, arial, sans-serif;
+	-webkit-transition: background 0.2s;
+	transition: background 0.2s;
+}
+
+.give-btn:hover {
+	background: #1b1f22;
+}
+
+body .zeko-panel .panel-content .give-goal-progress .raised {
+	margin-bottom: 0;
+}
+
+h1.give-form-title.entry-title:before {
+	margin: 0 auto 15px auto;
+}
+.single-give_forms .site-content {
+	padding: 3.5em 0 1.5em 0;
+}

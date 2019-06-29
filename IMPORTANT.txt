@@ -1,0 +1,16 @@
+
+Please read documentation before you start using the theme, thanks!
+
+
+DOWNLOAD FOLDER FILES:
+
+1. Documentation folder - inside this folder you'll find all the necessary help you need to set up the theme. Documentation files are structured like a website, that means you'll need to open it inside your browser. Just double click on the index.html file and open it in your browser or checked the live version here: http://www.anarieldesign.com/documentation/zeko/
+
+2. zeko folder - use it for the FTP installation 
+
+3. zeko.zip file - use it for the theme installation in WordPress
+
+4. zeko-child.zip file - this is child theme for advanced users that want to develop this theme further or to change it
+
+5. plugins - inside this folder you'll find Soliloquy slider plugin and the license key. If you need support from the plugin author you will need to purchase your own license on his site:https://soliloquywp.com/
+

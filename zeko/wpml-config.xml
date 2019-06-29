@@ -1,0 +1,14 @@
+<wpml-config>
+	<custom-types>
+		<custom-type translate="1">testimonials</custom-type>
+	</custom-types>
+	<admin-texts>
+		<key name="theme_mods_zeko">
+			<key name="custom_logo"/>
+			<key name="zeko_panel1"/>
+			<key name="zeko_panel2"/>
+			<key name="zeko_panel3"/>
+			<key name="zeko_panel4"/>
+		</key>
+	</admin-texts>
+</wpml-config>

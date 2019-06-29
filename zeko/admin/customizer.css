@@ -1,0 +1,37 @@
+/***** Customizer Custom CSS *****/
+
+.zeko-upgrade-thumb img {
+	border: 1px solid #ccc;
+}
+.zeko-upgrade-title {
+	color: #000;
+	text-transform: uppercase;
+}
+.zeko-upgrade-features {
+	list-style: disc;
+	margin: 0 15px;
+}
+.zeko-upgrade-link {
+	position: relative;
+	font-size: 9px;
+	line-height: 1.5;
+	color: #fff;
+	padding: 3px 6px;
+	letter-spacing: 1px;
+	background: #008ec2;
+	text-transform: uppercase;
+}
+.zeko-upgrade-link:hover {
+	color: #fff;
+}
+.zeko-theme-links-wrap {
+	font-size: 14px;
+	padding: 5px 15px 0;
+}
+.zeko-theme-link {
+	display: block;
+	margin-bottom: 5px;
+}
+li#customize-control-zeko_copyright_link {
+	margin-bottom: -10px;
+}

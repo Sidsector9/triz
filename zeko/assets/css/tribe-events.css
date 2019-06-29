@@ -1,0 +1,72 @@
+/* The Events Calendar */
+#tribe-events .tribe-events-button,
+#tribe-events .tribe-events-button:hover, 
+#tribe_events_filters_wrapper input[type=submit], 
+.tribe-events-button, .tribe-events-button.tribe-active:hover, 
+.tribe-events-button.tribe-inactive, .tribe-events-button:hover, 
+.tribe-events-calendar td.tribe-events-present div[id*=tribe-events-daynum-], 
+.tribe-events-calendar td.tribe-events-present div[id*=tribe-events-daynum-]>a,
+#tribe-bar-form .tribe-bar-submit input[type=submit],
+#tribe-events td.tribe-events-present div[id*="tribe-events-daynum-"], 
+#tribe-events td.tribe-events-present div[id*="tribe-events-daynum-"] > a,
+#tribe-events-content .tribe-events-calendar td.tribe-events-present.mobile-active:hover, 
+.tribe-events-calendar td.tribe-events-present.mobile-active, 
+.tribe-events-calendar td.tribe-events-present.mobile-active div[id*=tribe-events-daynum-], 
+.tribe-events-calendar td.tribe-events-present.mobile-active div[id*=tribe-events-daynum-] a {
+	background: #9e0022;
+}
+
+.events-list .tribe-events-loop, .single-tribe_organizer .tribe-events-loop, 
+.single-tribe_venue .tribe-events-loop, .tribe-events-day .tribe-events-loop {
+	max-width: 100%;
+	padding: 30px;
+	background: #fbfbfb;
+	margin: 0 auto;
+}
+
+.tribe-events-day .tribe-events-day-time-slot h5 {
+	font-size: 30px;
+	font-size: 1.875rem;
+	padding: 20px;
+	color: #1b1f22;
+	background: #fff;
+}
+
+.tribe-events-list .type-tribe_events {
+	padding-bottom: 40px;
+	border-bottom: 2px solid #efefef;
+}
+
+.tribe-events-schedule.tribe-clearfix h2 {
+	font-size: 16px;
+	font-size: 1rem;
+}
+
+#tribe-events-content .tribe-events-tooltip h4, 
+#tribe_events_filters_wrapper .tribe_events_slider_val, 
+.single-tribe_events a.tribe-events-gcal, 
+.single-tribe_events a.tribe-events-ical {
+	color: #9e0022;
+}
+
+body .tribe-events-month-event-title a,
+#tribe-events-content a,
+.tribe-events-adv-list-widget .tribe-events-widget-link a, 
+.tribe-events-event-meta a,
+.tribe-events-list-widget .tribe-events-widget-link a {
+	color: #1b1f22;
+}
+
+body .tribe-events-month-event-title a:hover,
+#tribe-events-content a:hover,
+.tribe-events-adv-list-widget .tribe-events-widget-link a:hover, 
+.tribe-events-back a, .tribe-events-back a:hover, 
+.tribe-events-event-meta a:hover,
+.tribe-events-list-widget .tribe-events-widget-link a:hover {
+	color: #9e0022;
+}
+
+.tribe-events-list .tribe-events-event-cost span {
+	background: #efefef;
+	border: none;
+}
